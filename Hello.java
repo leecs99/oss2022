@@ -4,7 +4,7 @@ public class Hello {
                 int y = ao.addOne(10);
 
                 System.out.println ("y = " + y);
-
+	   System.out.println ("Hello Changsoo);
              
         }
 }
